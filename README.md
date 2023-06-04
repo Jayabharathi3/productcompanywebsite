@@ -532,9 +532,36 @@ body {
 ```
 ## OUTPUT:
 
-### Home Page:
+## HOME PAGE:
 
-![output](./images/homepage.jpg)
+![home1](https://github.com/Jayabharathi3/productcompanywebsite/assets/120367796/d90306bc-fe38-4246-b47e-a83ed314d0df)
+
+
+## PRODUCT PAGE:
+
+![product](https://github.com/Jayabharathi3/productcompanywebsite/assets/120367796/c56d9176-40e6-4e38-958c-ba20dec34799)
+
+
+## PEOPLE PAGE:
+
+![people](https://github.com/Jayabharathi3/productcompanywebsite/assets/120367796/b5b6c22e-03b7-40e6-be5d-c53704751c55)
+
+
+## CONTACT PAGE:
+
+![contactus](https://github.com/Jayabharathi3/productcompanywebsite/assets/120367796/93e42d60-45b5-4eb0-abe0-7043a9a9b974)
+
+
+## SERVER OUTPUT:
+
+![serverpro](https://github.com/Jayabharathi3/productcompanywebsite/assets/120367796/17de01b8-8bc8-443f-ae7a-960c721d69cf)
+
+
+## HTML VALIDATOR:
+
+![htmlpro](https://github.com/Jayabharathi3/productcompanywebsite/assets/120367796/dc3da7ea-b32f-41f0-890c-6d5f43313fdd)
+
+
 
 ## Result:
 
